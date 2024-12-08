@@ -1,0 +1,1 @@
+The files provided in exoplanetary_atmospheres_data_new are from 'Universitäts-Sternwarte München' (USM) and 'Ludwig-Maximilians-Universität München' (LMU) [https://www.usm.uni-muenchen.de/Lehre/Lehrveranstaltungen/Praktikum/] and take no credit for them.
